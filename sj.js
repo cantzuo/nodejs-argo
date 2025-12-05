@@ -28,12 +28,12 @@ const CONFIG = {
     吞吐量阈值_差: 50,
     
     // --- 新增v4.9订阅功能配置 ---
-    UUID: 'a45809f9-9d43-4b4b-afeb-089bbdbdfc97', // [重要] UUID, 务必修改
-    subPath: 'sub', // 订阅路径, 可自定义, 'sub' 表示订阅链接为 /sub/sub
+    UUID: '3ecb569c-63ac-488e-8942-49cab4925451', // [重要] UUID, 务必修改
+    subPath: '5583', // 订阅路径, 可自定义, 'sub' 表示订阅链接为 /sub/sub
 	
 	cfip: [ //优选IP/域名列表，格式为 "地址#备注"。
-        'mfa.gov.ua#SG', 'saas.sin.fan#JP', 'store.ubi.com#SG','cf.130519.xyz#KR','cf.008500.xyz#HK',
-        'cf.090227.xyz#SG', 'cf.877774.xyz#HK','cdns.doon.eu.org#JP','sub.danfeng.eu.org#TW','cf.zhetengsha.eu.org#HK'
+        'mfa.gov.ua#SG', 'saas.sin.fan#JP', 'store.ubi.com#SG','cf.130519.xyz#KR','cf.008500.xyz#HK','fuck.frii.site#US',
+        'cf.090227.xyz#SG', 'cf.877774.xyz#HK','salla.sa#HK','cdns.doon.eu.org#JP','sub.danfeng.eu.org#TW','cf.zhetengsha.eu.org#HK'
     ],
 };
 
