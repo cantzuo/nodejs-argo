@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 const CONFIG = {
     // --- 原v3.4配置 ---
     密钥: "abc", // [重要] WebSocket路径验证密钥, 务必修改
-    默认兜底反代: "ProxyIP.US.CMLiussss.net:443",
+    默认兜底反代: "sjc.o00o.ooo",
     
     // 策略开关
     启用普通反代: true,
